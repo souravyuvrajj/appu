@@ -1,7 +1,5 @@
 # appu
 
-![](http://i.imgur.com/mfJa6zi.jpg?1)
-
 appu is a command line chef that brings you tasty food
 
 ## Demo
