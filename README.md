@@ -3,7 +3,7 @@
 appu is a command line chef that brings you tasty food
 
 ## Demo
-![](https://imgur.com/3AHOkmJ)
+![](https://p15.f3.n0.cdn.getcloudapp.com/items/xQud5wbk/Screen%20Recording%202019-06-28%20at%2012.25%20AM.mov)
 
 ## Features
 
